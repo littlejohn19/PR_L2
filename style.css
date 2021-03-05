@@ -1,1 +1,27 @@
+body {
+        	   background-color: green;
+    	}
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+<div class=”row”>
+<div class=”col-9”>
+
+.img {
+	width: 100px;
+	height: auto;
+}
 
