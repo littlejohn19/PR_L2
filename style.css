@@ -1,8 +1,15 @@
 body{
     background-color: silver;
+    margin:15px;
+    padding: 0;
 }
 
 .img{
     width:100px;
     height: auto;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
 }
