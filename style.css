@@ -1,7 +1,9 @@
+
 body{
     background-color: silver;
     margin:15px;
     padding: 0;
+    scroll-behavior: smooth;
 }
 
 .img{
@@ -12,4 +14,10 @@ body{
     display: flex;
     justify-content: center;
     flex-direction: row;
+}
+.scroll{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    display: none;
 }
