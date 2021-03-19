@@ -5,3 +5,10 @@ body {
 	width: 100px;
 	height: auto;
 }
+
+.mojaKlasa {
+	display: flex;
+   	flex-direction: row;
+   	justify-content: center;
+
+}
