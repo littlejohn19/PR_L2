@@ -1,1 +1,13 @@
+body{
+	background:#9ae3cb
+}
+.img {
+	width: 100px;
+	height: auto;
+}
 
+.stopka{
+    text-align: center;
+
+    margin: 0 auto;
+}
