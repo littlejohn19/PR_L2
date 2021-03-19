@@ -1,1 +1,17 @@
+body{
+	background-color:pink;
+}
 
+.img {
+	width: 100px;
+	height: auto;
+}
+.mojaKlasa
+{
+	text-align: center;
+	color:brown;
+}
+.navbar
+{
+	text-align:left;
+}
